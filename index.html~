@@ -1,0 +1,1540 @@
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>برنامه های اندرویدی</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <![endif]-->
+</head>
+<body id="page-top" class="index">
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top navbar-shrink" style="background: #000000">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">برنامه های اندرویدی</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <span class="shopping-number-class"></span>
+                </li>
+                <li>
+                    <a href="#shopping-cart" data-toggle="modal">سبد دانلود<i class="fa fa-shopping-cart"></i>
+                    </a>
+                </li>
+                <li class="">
+                    <a data-toggle="modal" href="#suggestinCard">ثبت تخلف</a>
+                </li>
+                <li class="">
+                    <a class="page-scroll" href="#services">خدمات</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#portfolio">کارنامه محصولات</a>
+                </li>
+   		<li>
+		  <a href="#privacy" target="_blank" class="portfolio-link btn btn-danger" data-toggle="modal">قوانین و مقررات</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#about">درباره من</a>
+
+                <li class="active">
+                    <a class="page-scroll" href="#contact">تماس</a>
+                </li>
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<!-- Header -->
+<header>
+    <div class="container">
+        <div style="color:yellow;font-weight:bold;font-size:24px;margin-bottom:13px;">سفارش محصول</div>
+    </div>
+</header>
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+<div class="container">
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <h2 class="section-heading">کارنامه محصولات</h2>
+
+        <h3 class="section-subheading text-muted">قسمتی از محصولاتی که داشتیم به صورت عکس آماده کردیم تا با مدل
+            طراحی ما آشنا شوید</h3>
+    </div>
+</div>
+<div class="row">
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <div class="ribbon-wrapper-green">
+            <div class="ribbon-green">جدید</div>
+        </div>
+        <img src="img/programs/mano_yadet_bashe.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>منو یادت باشه</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.stickers&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="#portfolioModal10"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-danger" data-toggle="modal">
+            خرید
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+
+        <div class="ribbon-wrapper-green">
+            <div class="ribbon-green">جدید</div>
+        </div>
+        <img src="img/programs/webcam.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>وب کم های آنلاین سراسر جهان</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.webcams&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.webcams&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+
+        <div class="ribbon-wrapper-green">
+            <div class="ribbon-green">جدید</div>
+        </div>
+        <img src="img/programs/music.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>کافه موزیک</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.onlinemusic&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.onlinemusic&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <div class="ribbon-wrapper-green">
+            <div class="ribbon-green">جدید</div>
+        </div>
+        <img src="img/programs/email.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>ایمیل و نامه آماده</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.email&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="#portfolioModal3"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-danger" data-toggle="modal">
+            خرید
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+        <img src="img/programs/tenture.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>تنتور</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.tenture&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.tenture&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+        <img src="img/programs/shuresh_pitza.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>شورش پیتزا</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.shureshpitza&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.shureshpitza&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+        <img src="img/programs/high_ship.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>کشتی فضایی - جنگ ستارگان - </h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.highship&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.highship&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+        <img src="img/programs/karkam.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>کار کم</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.karcam&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.karcam&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <p class="close-ribbon">رایگان</p>
+        <img src="img/programs/guitar.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>گیتار</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.tar.freee&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="process/download.php?key=com.metao.tar.free&direct=false"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-success" data-toggle="modal">
+            دانلود مستقیم
+        </a>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item  ">
+    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x">توضیحات</i>
+            </div>
+        </div>
+        <img src="img/programs/monshi.jpg" class="img-responsive"/>
+        <!--<video src="videos/webcams.mp4" class="center-block img-responsive" autoplay height="200" width="189">
+            <img src="img/portfolio/webcam.jpg" class="img-responsive"/>
+        </video>-->
+    </a>
+
+    <div class="portfolio-caption">
+        <h4>منشی همراه</h4>
+
+        <p class="text-muted">پروژه موبایل اندروید</p>
+    </div>
+    <div class="portfolio-caption">
+        <a href="process/download.php?key=com.metao.scribler&direct=true"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-info" data-toggle="modal">
+            دانلود از بازار<i class="fa fa-shopping-cart"></i>
+        </a>
+        <a href="#portfolioModal7"
+           target="_blank" style="margin: 2%;width: 40%;float: left;font-size: medium"
+           class="portfolio-link btn btn-danger" data-toggle="modal">
+            خرید
+        </a>
+    </div>
+</div>
+</div>
+</div>
+</section>
+<!-- Services Section -->
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">سرویس های ما</h2>
+
+                <h3 class="section-subheading text-muted">سرویس های ما به 3 دسته کلی تقسیم میشوند</h3>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                <h4 class="service-heading">طراحی برنامه های موبایل</h4>
+
+                <p class="text-muted">طراحی برنامه های موبایل یکی از سرویس هایی است که ما ارایه میدهیم. برنامه هایی
+                    میسازیم که با کاربران و مشتریان خود در ارتباط مستقیم باشید</p>
+            </div>
+            <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                <h4 class="service-heading">طراحی وب</h4>
+
+                <p class="text-muted">طراحی وب سایت یکی دیگر از سرویس های ماست.برای شما با توجه به روانشناسی نوع محصول و
+                    یا خدماتی که ارایه میکنید طراحی وب سایت های خارق العاده و قابل دیدن بر روی تمامی پلتفرم های مهم را
+                    فراهم میکنیم</p>
+            </div>
+            <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                <h4 class="service-heading">طراحی موتور های پردازشی</h4>
+
+                <p class="text-muted">برای شرکت های بزرگ همواره تعداد کاربران زیاد و استفاده از سرویس های خاص همواره مد
+                    نظر بوده است.ما با طراحی موتور های خاص منظوره برای ایجاد سرویسی فراگیر بر روی سرور ها این مهم را
+                    شکوفا میسازیم</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Team Section -->
+<section id="about" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">با اطمینان انتخاب کنید</h2>
+
+                <h3 class="section-subheading text-muted">این سایت  موفق به دریافت نماد اعتماد الکترونیکی از مرکز توسعه تجارت الکترونیکی میباشد </h3>
+<div class="col-lg-12 text-center"><img id='nbpehwlasguigwmdnbpe' style='cursor:pointer' onclick='window.open("https://trustseal.enamad.ir/Verify.aspx?id=24092&p=wkynodshdrfsjzpgwkyn", "Popup","toolbar=no, location=no, statusbar=no, menubar=no, scrollbars=1, resizable=0, width=580, height=600, top=30")' alt='' src='https://trustseal.enamad.ir/logo.aspx?id=24092&p=qesgaodsgthvzpfvqesg'/>
+</div>
+            </div>
+<ul class="center-block list-inline social-buttons">
+ <li><a href="https://blog.avesty.com"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://ir.linkedin.com/in/allahkarami"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+        </div>
+<!--
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="./img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <h4>مهرداد اله کرمی</h4>
+
+                    <p class="text-muted">برنامه نویس ارشد</p>
+                    <ul class="center-block list-inline social-buttons">
+                        <li><a href="https://blog.avesty.com"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://ir.linkedin.com/in/allahkarami"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+-->
+    </div>
+</section>
+<!-- Contact Section -->
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">تماس با من</h2>
+                <h5 class="section-heading">آدرس: همدان - همدان - سعیدیه، بلوک ب 6</h5>
+                <h5 class="section-heading">تلفن: 08138242073 </h5>
+                <h3 class="section-subheading text-muted">برای تماس با ما فرم زیر را پر کرده و برایمان ارسال کنید.به
+                    راحتی به شما در اسرع وقت پاسخگو هستیم</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="text" style="direction: rtl" class="form-control"
+                                       placeholder="نام و نام خانوادگی *" id="name"
+                                       required data-validation-required-message="لطفا نام خود را وارد کنید">
+
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" style="direction: rtl"
+                                       class="form-control" placeholder="ایمیل *" id="email" required
+                                       data-validation-required-message="لطفا آدرس ایمیل خود را وارد کنید">
+
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group">
+                                <input type="tel" style="direction: rtl"
+                                       class="form-control" placeholder="شماره تماس *" id="phone" required
+                                       data-validation-required-message="لطفا شماره تماس خود را وارد کنید">
+
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <textarea style="direction: rtl"
+                                          class="form-control" placeholder="پیام شما *" id="message" required
+                                          data-validation-required-message="پیام خود را اینجا وارد کنید"></textarea>
+
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="col-lg-12 text-center">
+                            <button type="submit" class="btn btn-xl">ارسال</button>
+                        </div>
+                        <div id="success" class="col-lg-12 text-center"
+                             style="color:#4cae4c;margin-top: 4%;font-size: 2em">
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">تمامی حقوق اثر مربوط به مهرداد اله کرمی و محفوظ می باشد</span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                </ul>
+            </div>
+            <!--
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li><a href="#">Privacy Policy</a>
+                    </li>
+                    <li><a href="#">Terms of Use</a>
+                    </li>
+                </ul>
+            </div>
+            -->
+        </div>
+    </div>
+</footer>
+<!-- Portfolio Modal 1 -->
+<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2>کاملا رایگان</h2>
+
+                <div class="row">
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="videos/webcam.gif" alt="">
+                    </div>
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="img/programs/webcam.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>وب کم</h2>
+
+                        <p class="item-intro text-muted">پروژه وب کم بر روی بستر موبایل</p>
+
+                        <p>تصمیم گرفتیم دنیا را به صورت تصاویر ویدیویی بر روی بستر موبایل پیاده سازی کرده و در اختیار
+                            عموم قرار دهیم.پروژه به صورت پرداخت درون برنامه ای بوده و در ابتدا رایگان میباشد</p>
+
+                        <p>
+                            <strong>چه چیزی پروژه را در ابتدا متمایز کرده است</strong>پروژه با آخرین طراحی شرکت گوگل به
+                            صورت شیک و اصولی متریال دیزاین طراحی شده است. ما میدانیم هر کاربر از چه ظاهری بیشتر لذت
+                            میبرد و برای اینکه کار با انواع منو ها را آسان کنیم به نحوی پروژه را طراحی کردیم که در عین
+                            پیچیدگی ساده به نظر برسد و به روز باشد</a>, میتوانید پروژه را به طور کامل از <a
+                                href="https://cafebazaar.ir/app/com.metao.webcams/?l=fa">اینجا</a>بگیرید</p>
+
+                        <p>در پروژه سعی کردیم با کاربران خود تعامل داشته باشیم و رفتار کاربران را هوشمندانه بررسی کرده و
+                            به صورت پنلی که در اختیار داشتیم برای وی پیشنهاداتی شگرف بفرستیم.ما معتقدیم بازاریابی هدف
+                            دار بهترین شیوه برای مدریت کاربران است و این نحوه را به صورتی آسان و مدرن پیاده سازی
+                            کردیم</p>
+                        <ul class="list-inline">
+                            <li>تاریخ انجام: کمتر از یک ماه</li>
+                            <li>مشتری: عموم مردم</li>
+                            <li>شاخه:طراحی موبایل بر روی پلتفرم اندروید</li>
+                        </ul>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="suggestinCard" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container" style="border-radius:2%;border-width:3px;border-style:solid;border-color:black;">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <div class="row">
+                            در صورتیکه تخلفی صورت گرفته مراتب را به اطلاع ما برسانید تا پیگیری های لازم را انجام دهیم
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <form name="sentMessage" id="regretForm" novalidate>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control"
+                                                       style="direction: rtl"
+                                                       placeholder="نام و نام خانوادگی *" id="regretName" required
+                                                       data-validation-required-message="لطفا نام خود را وارد کنید">
+
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="email" class="form-control" placeholder="ایمیل *"
+                                                       style="direction: rtl"
+                                                       id="regretEmail" required
+                                                       data-validation-required-message="لطفا آدرس ایمیل خود را وارد کنید">
+
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="tel" class="form-control" placeholder="شماره تماس *"
+                                                       style="direction: rtl"
+                                                       id="regretPhone" required
+                                                       data-validation-required-message="لطفا شماره تماس خود را وارد کنید">
+
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <textarea class="form-control"
+                                                          style="direction: rtl"
+                                                          placeholder="توضیح *" id="regretMessage"
+                                                          required
+                                                          data-validation-required-message="پیام خود را اینجا وارد کنید"></textarea>
+
+                                                <p class="help-block text-danger"></p>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="col-lg-12 text-center">
+                                            <button type="submit" class="btn btn-xl">ارسال</button>
+                                        </div>
+
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal 1 -->
+<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2>کاملا رایگان</h2>
+
+                <div class="row">
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="videos/onlinemusic.gif" alt="">
+                    </div>
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="img/programs/music.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>وب کم</h2>
+
+                        <p class="item-intro text-muted">پروژه وب کم بر روی بستر موبایل</p>
+
+                        <p>تصمیم گرفتیم دنیا را به صورت تصاویر ویدیویی بر روی بستر موبایل پیاده سازی کرده و در اختیار
+                            عموم قرار دهیم.پروژه به صورت پرداخت درون برنامه ای بوده و در ابتدا رایگان میباشد</p>
+
+                        <p>
+                            <strong>چه چیزی پروژه را در ابتدا متمایز کرده است</strong>پروژه با آخرین طراحی شرکت گوگل به
+                            صورت شیک و اصولی متریال دیزاین طراحی شده است. ما میدانیم هر کاربر از چه ظاهری بیشتر لذت
+                            میبرد و برای اینکه کار با انواع منو ها را آسان کنیم به نحوی پروژه را طراحی کردیم که در عین
+                            پیچیدگی ساده به نظر برسد و به روز باشد</a>, میتوانید پروژه را به طور کامل از <a
+                                href="https://cafebazaar.ir/app/com.metao.webcams/?l=fa">اینجا</a>بگیرید</p>
+
+                        <p>در پروژه سعی کردیم با کاربران خود تعامل داشته باشیم و رفتار کاربران را هوشمندانه بررسی کرده و
+                            به صورت پنلی که در اختیار داشتیم برای وی پیشنهاداتی شگرف بفرستیم.ما معتقدیم بازاریابی هدف
+                            دار بهترین شیوه برای مدریت کاربران است و این نحوه را به صورتی آسان و مدرن پیاده سازی
+                            کردیم</p>
+                        <ul class="list-inline">
+                            <li>تاریخ انجام: کمتر از یک ماه</li>
+                            <li>مشتری: عموم مردم</li>
+                            <li>شاخه:طراحی موبایل بر روی پلتفرم اندروید</li>
+                        </ul>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal 5 -->
+<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>خرید</h2>
+                        <button onclick="buyItem(0);" type="button" class="btn btn-info" data-dismiss="modal"><i
+                                class="fa fa-shopping-cart"></i> اضافه به سبد خرید
+                        </button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-times"></i>
+                            بستن
+                        </button>
+                        <p class="item-intro text-muted">با خرید ایمیل و نامه های آماده موافق هستید؟</p>
+
+                        <div class="row right" style="margin: 3%">
+                            <div class="col-lg-4 col-lg-offset-1" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">20000 ريال</p>
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">قیمت با تخفیف:</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="videos/email.gif" alt="">
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="img/programs/email.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>ایمیل و نامه های آماده</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>کاملترین مجموعه نامه های رسمی و غیر رسمی در برنامه "نامه رسمی"</p>
+
+                        <p>*************دارای 10 هزار نمونه نامه،به  زبان فارسی و انگلیسی**********</p>
+
+                        <p>نامه رسمی فارسی و انگلییس به جاهای مختلف رو فقط با یک کلیک ساده بفرست!</p>
+
+                        <p>قابلیت جستجو : فارسی و انگلیسی</p>
+
+                        <p>مسریع و آسان و کم حجم تا جای امکان</p>
+
+                        <p>بدون نیاز به برنامه دیگری نامه را ایمیل کنید یا در تلگرام و برنامه های مشابه ارسال کنید. </p>
+
+                        <p>نامه شکایت و انواع قرارداد ها و نامه های مختاف به دادگاه و </p>
+
+                        <p>نامه های انگلیسی مختلف، درخواست کار، گرفتن ویزا و نامه به دانشگاه و </p>
+
+                        <p>صدها موضوع دیگه</p>
+
+                        <p>تضمین ما این سرویس به صورت پیش فرض است</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal 4 -->
+<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>خرید</h2>
+                        <button onclick="buyItem(0);" type="button" class="btn btn-info" data-dismiss="modal"><i
+                                class="fa fa-shopping-cart"></i> اضافه به سبد خرید
+                        </button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-times"></i>
+                            بستن
+                        </button>
+                        <p class="item-intro text-muted">با خرید ایمیل و نامه های آماده موافق هستید؟</p>
+
+                        <div class="row right" style="margin: 3%">
+                            <div class="col-lg-4 col-lg-offset-1" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">20000 ريال</p>
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">قیمت با تخفیف:</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="videos/email.gif" alt="">
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="img/programs/email.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>ایمیل و نامه های آماده</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>کاملترین مجموعه نامه های رسمی و غیر رسمی در برنامه "نامه رسمی"</p>
+
+                        <p>*************دارای 10 هزار نمونه نامه،به  زبان فارسی و انگلیسی**********</p>
+
+                        <p>نامه رسمی فارسی و انگلییس به جاهای مختلف رو فقط با یک کلیک ساده بفرست!</p>
+
+                        <p>قابلیت جستجو : فارسی و انگلیسی</p>
+
+                        <p>مسریع و آسان و کم حجم تا جای امکان</p>
+
+                        <p>بدون نیاز به برنامه دیگری نامه را ایمیل کنید یا در تلگرام و برنامه های مشابه ارسال کنید. </p>
+
+                        <p>نامه شکایت و انواع قرارداد ها و نامه های مختاف به دادگاه و </p>
+
+                        <p>نامه های انگلیسی مختلف، درخواست کار، گرفتن ویزا و نامه به دانشگاه و </p>
+
+                        <p>صدها موضوع دیگه</p>
+
+                        <p>تضمین ما این سرویس به صورت پیش فرض است</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal 2 -->
+<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2>کاملا رایگان</h2>
+
+                    <div class="row">
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                 src="videos/tenture.gif" alt="">
+                        </div>
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                 src="img/programs/tenture.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>تنتور</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>در خواب خود اختلال دارید؟</p>
+
+                        <p>دچار فراموشی شده اید و تمرکز حواس ندارید!</p>
+
+                        <p>شاید به دنبال آرامش بیشتر هستید؟</p>
+
+                        <p>خیلی از انسانها در روز دچار روزمرگی میشوند و نیاز است تا فعالیت مغزی آنها به حالت اولیه
+                            برگردد</p>
+
+                        <p>تنتور یعنی التیام بخش که توسط امواج صوتی میتواند رشته های عصبی مغز شما را تقویت کند</p>
+
+                        <p>شما به هیچ دکتر و روانشناسی نخواهید داشت</p>
+
+                        <p>نبرای اینکه باور کنید کمی به نظرات افرادی که برنامه را استفاده کرده اند بندازید</p>
+
+                        <p>این امواج توسط یک دانشمند آلمانی کشف شد و به صورت برنامه تنتور در آمده است</p>
+
+                        <p>برای استفاده موثر حتما با هدفون گوش کنید و در جای آرام بنشینید</p>
+
+                        <p>تضمین میکنیم که در صورت استفاده موثر و تا انتهای موج اگر صبوری کنید تاثیر شگرفی میینید!</p>
+
+                        <p>فراموش نکنید که برنامه را به دوستان خود نیز معرفی کنید تا با حمایت شما برنامه های بیشتری </p>
+
+                        <p>فرایگان در اختیار ایرانی ها قرار بگیرد. نظرات خوبتون فراموش نشه</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="privacy" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2> قوانین و مقررات این وب سایت </h2>
+
+                        <p class="item-intro text-muted">شرایط استفاده از خدمات</p>
+<p style="align:left|right|center|justify;float: right">
+                       متن پیش رو توضیحی دربارهٔ شرایط استفاده از  وب‌سایت اوستی  به آدرس  avesty.com  و تمام خدمات و سرویس‌های ارایه شده از طریق آن است.
+ از این پس در تمام متون پیش رو منظور از وب سایت همان اوستی به آدرس avesty.com است .
+استفاده از خدمات ما، به این معنی است که با این شرایط موافقت کرده‌اید. لطفا برای آشنایی با شرایط استفاده از سایت این سند را مطالعه کنید و چنانچه سؤالی برایتان پیش آمد خوشحال می‌شویم با ما تماس بگیرید.
+<h3>شرایط لازم</h3>
+محدودیت سنی: برای ایجاد حساب کاربری و استفاده از خدمات خرید از طریق این سایت لازم است بالای ۱۸ سال داشته باشید. اگر زیر ۱۸ سال دارید، لطفا از والدین یا قیم قانونی خود بخواهید حساب کاربری ایجاد کنند و بر فعالیت شما نظارت داشته باشند.
+نیازمندی‌های اولیه کاربری: برای استفاده از سرویس‌های ما، به دستگاهی نیاز است که نرم‌افزاری سازگار و دسترسی به اینترنت فعال داشته باشد. این دو عامل بر کیفیت عملکرد و نحوه ارائه سرویس‌های سایت تأثیر می‌گذارند. این وب سایت در حال حاضر تنها روی وب سایت امکان ارائه برنامه ها را دار وکاربر با کلیک بر روی هر برنامه و دانلود به سمت لینک مشخصی از سایت رسمی کافه بازار هدایت میشود.
+<h4>هزینه استفاده</h4>: استفاده از این وب سایت رایگان است و شما برای نصب و استفاده از این وب سایت، متحمل هیچ هزینه‌ای نخواهید شد. اما برای دسترسی به خدمات آن نیاز به اتصال به اینترنت است به همین دلیل ممکن است شرکت ارائه دهنده خدمات اینترنت از شما بابت استفاده از اینترنت هزینه‌ دریافت کند. همچنین در صورتی که بخواهید از برنامه‌های غیر رایگان موجود دروب سایت یا یک گزینه غیررایگان در یک برنامه رایگان استفاده کنید، لازم است نسبت به پرداخت هزینه آن اقدام کنید.
+<h4>کاربران بین‌المللی</h4>: تمامی برنامه‌های موجودبا نرخ داخلی ایران قیمت گذاری شده اند و  در داخل ایران نگهداری می‌شوند. امکان استفاده از برنامه ها در خارج از ایران وجود دارد اما تشخیص موانع حقوقی و قانونی استفاده از خدمات وب سایت در کشورهای دیگر بر عهدهٔ خود کاربر است و این سایت  در این زمینه مسئولیتی ندارد.
+خرید ها به طور کلی به دو صورت امکان پذیر میباشند:
+<h4>خرید از وب سایت</h4> 
+سعی کرده‌ایم تمامی جوانب یک پرداخت ایمن روی را در نظر بگیریم. از این رو همه‌ٔ اطلاعاتی که در زمان پرداخت وارد می‌کنید، در درگاه بانکی وارد می‌شوند و به هیچ‌عنوان در وب سایت ثبت یا ذخیره نخواهند شد و صرفا از طریق درگاه بانکیِ مورد استفاده، قابل پیگیری خواهند بود.
+برای خرید و استفاده از محصولات غیررایگان وب سایت، اطلاعات حساب کاربری مانند ایمیل خریدار برای حفظ حقوق مراجعین محفوظ میماند. تمامی شرایط خرید و فروش محصولات این وب سایت از قانون جاری در کشور پیروی می‌کند.
+اگر می‌خواهید از برنامه‌های فروشی عرضه‌شده دراین وب سایت استفاده کنید، باید ابتدا هزینۀ تعیین شده را بپردازید. تمامی قیمت‌های درج‌شده در سایت به‌روز هستند. قیمت یک برنامه‌ برای خریدار آن همیشه ثابت خواهد بود و تغییر قیمت‌ها شامل خریدی که یک بار ثبت و انجام شده است نمی‌شود.
+در برنامه هایی که رایگان هستند اما  از خرید‌های درون برنامه‌ای پشتیبانی میکنند، سرویس مورد نظر به طور مستقیم از سایت کافه بازار یا مایکت خریداری می‌شود. بنابراین آگاهی از شرایط استفاده و قوانین و مقررات تعیین‌شده از سوی کافه بازار و مایکت با حفظ  رعایت آنها ضروری است. همچنین لازم به ذکر است مسئولیت ارائه خدمات خریداری نیز باکافه بازار یا مایکت است.
+به‌روزرسانی برنامه‌ها که معمولاً ایرادهای قبلی را برطرف می‌کند، به رایگان ازسایت قابل دریافت خواهد بود.
+<h4>خرید از سایت کافه بازار یا مایکت</h4>
+برای استفاده از برخی سرویس‌ها و دسترسی به تمامی خدمات کافه‌بازار، لازم است حساب کاربری ایجاد کنید که مستلزم این است که بالای ۱۸ سال داشته باشید. برای این کار بعد ازکلیک بر روی دکمه مورد نظر زیر هر برنامه به صفحه مورد نظر در سایت کافه بازار یا مایکت  هدایت میشوید . برای استفاده و دانلود برنامه ها بدیهی است نیاز به نصب برنامه کافه بازار  و یا مایکت دارید که در این صورت برنامه ها را به طور مستقیم از سرویس آنها دانلود میکنید.
+هر خریدی که از طریق دو سیستم مذکور یعنی مایکت و کافه بازار انجام شود شامل حقوق و قوانین این دو سرویس شده ومسیولیت پشیتیبانی خرید ها هنگام ورود به آنها بر عهده خودشان می باشد. هر گونه مسیولیت سرویس کافه بازار و یا مایکت اهم از خرید و  در قبال سرویس دهی مناسب به کاربران در این مورد از وب سایت ما سلب شده است. 
+<h4>حریم خصوصی</h4>
+سیاست‌نامه حریم شخصی کاربران وب سایت، که در این بخش قابل مشاهده است، رویکرد وب سایت  را در این‌باره به صورت شفاف توضیح می‌دهد. این سیاست‌نامه بخشی از شرایط استفاده از سرویس‌های وب سایت  را تشکیل می‌دهد.
+<h4>محتوا</h4>
+تمامی متون، طرح‌های گرافیکی، رابط کاربری، رابط بصری، عکس، علائم تجاری، کد‌های برنامه و در مجموع "محتوا"، از جمله ساختار، انتخاب، هماهنگی، بیان و تنظیم مطالب و محتوای موجود در سایت و برنامه متعلق به شخص مهرداد اله کرمی است. استفاده از سرویس‌های سایت  و محتوای آنها، هیچ‌گونه حق مالکیت مادی و معنوی برای کاربر به وجود نمی‌آورد. کاربران فقط در صورت رضایت دارندگان سرویس‌ها یا به‌ واسطۀ قانون، مجاز به استفادهٔ مالکانه از آنها هستند. بنابراین هرگونه استفاده از لوگوها و نماد تجاری سرویس‌ها بی‌اجازۀ مالک ممنوع است.
+محتوای محصولاتی که در وب سایت منتشر می‌شوند و به سمت سرویس های کافه بازار یا مایکت هدایت میشوند مطابق با تاییدات از سمت کافه بازار و یا مایکت بوده و متعلق به اینجانب مهرداد اله کرمی  نیست و مسئولیت حقوقی آنها کاملا با کافه بازار یا مایکت است.
+<h4>ثبت نظر در وب سایت</h4>
+ثبت نظر در صفحۀ تماس با ما در همین وب سایت  در هر زمان امکان‌پذیر است. این نظرات حداکثر ۴ ساعت پس از ثبت آن، مورد بررسی قرار خواهند گرفت اما نظراتی که این موارد را شامل شوند، تایید نخواهند شد:
+استفاده از الفاظ رکیک
+تبلیغ به نفع یا علیه برنامه‌ها یا شخص مهرداد اله کرمی  در بخش نظرات برنامه‌های دیگرچه در وب سایت و چه در سرویس های مایکت و یا کافه بازار به طور جداگانه
+هر نوع محتوای متناقض عرف جامعه
+نقض قوانین جمهوری اسلامی ایران
+توهین به مقدسات، مقامات، اشخاص و قومیت‌ها
+هرگونه تبلیغات
+درج لینک و آدرس سایت‌های دیگر
+تشویق دیگران به رای دادن به یک برنامهٔ بخصوص و لایک جمع کردن
+درخواست فیلتر‌شکن و وی‌پی‌ان
+درج نظرات غیر‌مرتبط با برنامه
+<h4>نحوه پایان‌دادن به استفاده از وب سایت</h4>
+ما به صورت مستمر در تلاشیم که سرویس‌های خود را بهبود بخشیم، در همین راستا ممکن است ویژگی‌ها یا عملکردهایی را اضافه یا حذف کنیم، یا صرفا محدودیت‌های آن را کاهش داده یا محدودیت جدیدی اضافه کنیم و همچنین ممکن است یکی از سرویس‌های خود را به‌طور کامل متوقف کنیم یا به حالت تعلیق در آوریم. تلاش وب سایت اعمال تغییراتی در جهت رضایت کاربران است اما تصمیم به ادامهٔ استفاده از سرویس‌های تغییر یافته با شخص شماست.
+اگر تصمیم به عدم استفاده از سرویس‌های وب سایت گرفتید،حتما با ما تماس بگیرید. پس از تماس، حساب کاربری شما مسدود می‌شود و دیگر برای هیچ شخص دیگری (حتی کاربر قبلی) قابل استفاده نخواهد بود. اما برخی اطلاعات مانند تراکنش‌های مالی به دلایل قانونی قابل حذف نیست و در کافه‌بازار نگه‌داری خواهند شد.
+<h4>سلب مسئولیت</h4>
+ما در تلاش دائمی برای ارائۀ سرویسی دقیق و ایمن هستیم و امیدواریم بتوانیم با برطرف کردن نواقص، رضایت تمام کاربران را جلب کنیم اما جز مواردی که صراحتاً در این سند و اسناد مربوط به شرایط استفاده از وب سایت ذکر شده، هیچ‌گونه تعهدی نسبت به سرویس‌های ارائه شده نداریم.
+<h4>عواقب تخلف از شرایط</h4>
+سوءاستفاده از سرویس‌های وب سایت به هر شکل، استفاده از اختلال سرویس‌ها، استفاده از برنامه‌های مخرب و جاسوسی، پس‌دادن غیرمنصفانه محصولات خریداری‌شده، تلاش برای ورود به حساب‌کاربری غیر از روش معمول برای کاربران، استفاده از ربات‌ها و هر نوع روش مخرب برای دسترسی به اطلاعات سایت، برنامه و محتویات آن از طریق هر سیستم و شبکه، ایجاد اختلال و تحمیل بار اضافی به هر یک از سرویس‌ها و سرورهای بازار ممنوع است و این جانب مهرداد اله کرمی درصورت مشاهده چنین فعالیت‌هایی از راه‌های قانونی، مورد را پیگیری می‌کند.
+استفاده از سرویس‌های وب سایت در راستای نقض حقوق افراد و قانون جاری در کشور، ممنوع است و وب سایت در این‌باره هیچ مسئولیتی ندارد.
+در صورت تخلف از این شرایط وب سایت حساب کاربر متخلف را مسدود می‌کند و مورد را به صورت قانونی پیگیری خواهد کرد.
+اگر اقدامات لازم در این راه بلافاصله انجام نشد، به این معنی نیست که تخلفات را نادیده گرفته‌ایم یا از احقاق حقوق مطرح‌شده دست کشیده‌ایم.
+<h4>تغییرات این سند</h4>
+مطالب ذکر شده در این سند دائمی نیستند و ممکن است با تغییر در سیاست‌های وب سایت، دستخوش تغییر و تجدید نظر شوند. در صورتی که این تغییرات مهم باشند، از طریق ایمیل به همۀ کاربران اطلاع داده خواهد شد.
+<h4>نظرات و اطلاعات</h4>
+سؤالها، انتقادها و پیشنهادهای خود را از طریق ایمیل یا تلفن با ما در میان بگذارید. مطمئن باشید که در اسرع وقت به شما پاسخ می‌دهیم و از نظرات مفید شما در بهبود خدمات 
+خود استفاده می کنیم.
+</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2>کاملا رایگان</h2>
+
+                    <div class="row">
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 430px"
+                                 src="videos/high_ship.gif" alt="">
+                        </div>
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                 src="img/programs/high_ship.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>شورش پیتزا</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>سر انجام بازی جنگ ستارگان بر روی گوشی موبایل عرضه شد</p>
+
+                        <p>ارونمایی شده بود ساخته و عرضه شد.در این بازی با 80 مرحله سخت روبرو </p>
+
+                        <p>هستید و بدون محدودیت می توانید اقدام به بازی کشف دیگر سیارات </p>
+
+                        <p>کنید.در این بازی انواع سفینه های فضایی به صورتی ساخته شده اند که </p>
+
+                        <p>هوش مصنوعی دشمنان حس واقعی بودن را به شما می دهد. تقویت </p>
+
+                        <p>سفینه فضایی شما نیز به صورت نامحدود وجود دارد و به همراه دوست </p>
+
+                        <p>کمکی خود به جنگ با سفینه ها می پردازید.</p>
+
+                        <p>در این بازی پر از هیجان از کهکشان های مختلف عبور میکنید تا به آخرین </p>
+
+                        <p>کهکشان برسید و در آنجا با سفینه های پیشرفته تری روبرو خواهید شد.</p>
+
+                        <p>نحوه هدایت سفینه نیز به 2 صورت لمسی و زیروسکوپ گوشی قابل انجام </p>
+
+                        <p>است. از گوشی های با مدل پایین نیز پشتیبانی می شود.</p>
+
+                        <p>اولین کسانی باشید که این بازی را تجربه می کنند.</p>
+
+                        <p>به زودی منتظر نسخه های جدید تر و هیجان انگیز از استودیو ما باشید</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2>خرید</h2>
+                    <button onclick="buyItem(1);" type="button" class="btn btn-info" data-dismiss="modal"><i
+                            class="fa fa-shopping-cart"></i> اضافه به سبد خرید
+                    </button>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal"><i
+                            class="fa fa-times"></i>
+                        بستن
+                    </button>
+                    <p class="item-intro text-muted">آیا با خرید منشی همراه موافقت دارید؟</p>
+
+                    <div class="row right" style="margin: 3%">
+                        <div class="col-lg-4 col-lg-offset-1" style="background-color:cornflowerblue;">
+                            <p class="item-intro text-muted" style="color: #fff">20000 ريال</p>
+                        </div>
+                        <div class="col-lg-4 col-lg-offset-2" style="background-color:cornflowerblue;">
+                            <p class="item-intro text-muted" style="color: #fff">قیمت با تخفیف:</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 430px"
+                                 src="videos/monshi.gif" alt="">
+                        </div>
+                        <div class="col-lg-4 col-lg-offset-2">
+                            <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                 src="img/programs/monshi.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>منشی همراه</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>بعضی وقتها اتفاق میافته که کسی به شما زنگ میزنه و شما گوشی رو نمیبینید</p>
+
+                        <p>بعضی وقتها هم در دسترس هستید اما دم دستتون دفترجه یادداشتی نیست</p>
+
+                        <p>هاز همه مهمتر میخواید با دست خط خودتون بنویسید و سر پا جایی هستید و تمرکز تایپ ندارید</p>
+
+                        <p>شما به یک منشی احتیاج دارید :)</p>
+
+                        <p>منشی تمام اینها رو براتون انجام میده</p>
+
+                        <p>از همه مهمتر اینکه منشی روی تمام گوشی ها قابل اجراست</p>
+
+                        <p>به زودی منتظر نسخه های جدید تر و هیجان انگیز از استودیو ما باشید</p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2>کاملا رایگان</h2>
+
+                    <div class="row">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="img/programs/guitar.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>گیتار برقی</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>خیلی وقتها شده شما خواستید سازی بزنید تا عمق وجود نوازنده آهنگ رو </p>
+
+                        <p>حس کنید! بهترین حالت اینه که شما جای یک نوازنده گیتار باشید تا مهارت </p>
+
+                        <p>خودتون رو به رخ بقیه بکشید. اولش ممکنه مثل ویدیو نتونید عکس العمل </p>
+
+                        <p>مناسب و سریع نشون بدید و بهتره سطح بازی رو به حالت "آسان" عوض </p>
+
+                        <p>کنید. اونجاست که برنامه چند تا نت بهتون تخفیف میده تا شما رفته رفته یاد </p>
+
+                        <p>بگیرید. مهارت ساز زدن با این برنامه بعد از مدتی دستتون میاد.</p>
+
+                        <p>برای دیدن نحوه نواختن ویدیو زیر را ببینید</p>
+
+                        <a target="_blank" href="http://www.aparat.com/v/7j4v3">http://www.aparat.com/v/7j4v3</a>
+
+                        <p></p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2>کاملا رایگان</h2>
+
+                    <div class="row">
+                        <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                             src="img/programs/karkam.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>دوربین هنری کار کم </h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>خکارکم یک دوربین حرفه ای برای تبدیل عکس های شما به کاراکترهای </p>
+
+                        <p>کامپیوتری است. به صورت مستقیم از دوربین و یا گالری خود میتوانید </p>
+
+                        <p>تصاویر کم حجم و هنری بگیرید!</p>
+
+                        <p>در نهایت باور نمیکنید که تمام عکسی که میبینید توسط کاراکترهای </p>
+
+                        <p>کامپیوتری کیبورد ساخته شده اند!</p>
+
+                        <p>توزیع در شبکه های اجتماعی</p>
+
+                        <p>********************************************************************************</p>
+
+                        <p>کاراکتر ها به صورت اتوماتیک برای شما انتخاب می شوند و</p>
+
+                        <p>می توانید در شبکه های اجتماعی به دوستان خود نشان دهید که عکس </p>
+
+                        <p>شما وقتی با کاراکترهای کامپیوتری کشیده می شوند چه شکلی هستید.</p>
+
+                        <p>حتی میتوانید از طبیعت یا ماشین خود عکس بگیرید!</p>
+
+                        <p>نوع کاراکتر را نیز از پررنگ ترین به کم رنگترین میتوان تغییر داد</p>
+
+                        <p>********************************************************************************</p>
+
+                        <p>توزیع در وب سایت ها</p>
+
+                        <p>********************************************************************************</p>
+
+                        <p>کارکم قابلیت تبدیل عکس های شما را به صورت مستقیم در وب سایت ها </p>
+
+                        <p>دارد.</p>
+
+                        <p>وقتی عکس کاراکتری شما آماده شد کارکم از شما میپرسد آیا دوست دارید </p>
+
+                        <p>خروجی عکس خود را در وب سایت منتشر کنید؟</p>
+
+                        <p>با انتخاب گزینه "خروجی سایت" صفحه سایت شما آماده است و به راحتی </p>
+
+                        <p>می توانید آنرا در وب سایت و یا وب لاگ خود منتشر کنید.</p>
+
+                        <p>می توانید هرروز عکس های نوستالژی گرفته و یک وب سایت جالب ایجاد </p>
+
+                        <p>کنید و نظرات دوستان خود را در مورد سلیقه خود بپرسید!</p>
+
+                        <p>********************************************************************************</p>
+
+                        <p></p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Portfolio Modal 6 -->
+<div class="portfolio-modal modal fade" id="shopping-cart" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container" style="border-radius:2%;border-width:3px;border-style:solid;border-color:black;">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <div class="col-lg-2">
+                            <button id="shopping_end" type="button" class="btn btn-info">پرداخت نهایی<i
+                                    class="fa fa-shopping-cart"></i></button>
+                        </div>
+                        <div class="col-lg-2">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">بستن<i
+                                    class="fa fa-times"></i></button>
+                        </div>
+                        <h2>سبد محصولات</h2>
+
+                        <div id="items">
+                            <div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>خرید</h2>
+                        <button onclick="buyItem(2);" type="button" class="btn btn-info" data-dismiss="modal"><i
+                                class="fa fa-shopping-cart"></i> اضافه به سبد خرید
+                        </button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-times"></i>
+                            بستن
+                        </button>
+                        <p class="item-intro text-muted">با خرید برنامه "منو یادت باشه" موافق هستید؟</p>
+
+                        <div class="row right" style="margin: 3%">
+                            <div class="col-lg-4 col-lg-offset-1" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">20000 ريال</p>
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2" style="background-color:cornflowerblue;">
+                                <p class="item-intro text-muted" style="color: #fff">قیمت با تخفیف:</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="videos/mano_yadet_bashe.gif" alt="">
+                            </div>
+                            <div class="col-lg-4 col-lg-offset-2">
+                                <img class="img-responsive img-centered" style="max-height: 330px;max-width: 230px"
+                                     src="img/programs/mano_yadet_bashe.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>منو یادت باشه</h2>
+
+                        <p class="item-intro text-muted">پروژه اندروید</p>
+
+                        <p>برنامه ای منحصر به فرد که نمونه اش رو ندیدید. کاربردش چیه؟میخواید</p>
+
+                        <p>یادداشتهاتون همیشه جلوی چشم شما باشند و اگر یادتون رفت بهتون </p>
+
+                        <p>ی استفاده میکنید؟  "منو یادت باشه" </p>
+
+                        <p><b>"منو یادت باشه" </b></p>
+
+                        <p>استیکر ها رو روی صفحه گوشیت بچسبون! با یک حرکت ساده</p>
+
+                        <p>بدر قبال هزینه ناچیز محصولی شگرف داشته باشید.</p>
+
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            بستن
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<script src="js/jquery-cookie.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="js/jquery.js"></script>
+<script src="js/jquery-cookie.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/cbpAnimatedHeader.js"></script>
+
+<!-- Contact Form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script>
+<script src="js/preload.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="js/agency.js"></script>
+<script>
+    $(function () {
+        $('img').imgPreload();
+    })
+</script>
+
+</body>
+</html>
